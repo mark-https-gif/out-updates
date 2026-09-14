@@ -1,7 +1,7 @@
 {
-    "version":  "0.6.1",
+    "version":  "0.6.2",
     "latest":  {
-                   "url":  "https://api.github.com/repos/mark-https-gif/out-updates/releases/assets/563239973"
+                   "url":  "https://api.github.com/repos/mark-https-gif/out-updates/releases/assets/563284600"
                },
-    "notes":  "Темы: тёмная/светлая (меню Вид), автоопределение кодировки UTF-8/UTF-16"
+    "notes":  "Проверка обновлений (Ctrl+U), темная/светлая тема, UTF-8/UTF-16"
 }
