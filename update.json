@@ -1,7 +1,7 @@
 {
     "version":  "0.6.2",
     "latest":  {
-                   "url":  "https://api.github.com/repos/mark-https-gif/out-updates/releases/assets/563284600"
+                   "url":  "https://github.com/mark-https-gif/out-updates/releases/download/v0.6.1/OUT-IDE-Setup-0.6.2.exe"
                },
     "notes":  "Проверка обновлений (Ctrl+U), темная/светлая тема, UTF-8/UTF-16"
 }
