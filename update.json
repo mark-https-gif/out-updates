@@ -1,1 +1,7 @@
-{"version":"0.6.1","notes":"Темы: тёмная/светлая, автоопределение UTF-8/UTF-16"}
+{
+    "version":  "0.6.1",
+    "latest":  {
+                   "url":  "https://api.github.com/repos/mark-https-gif/out-updates/releases/assets/563239973"
+               },
+    "notes":  "Темы: тёмная/светлая (меню Вид), автоопределение кодировки UTF-8/UTF-16"
+}
