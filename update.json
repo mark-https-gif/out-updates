@@ -1,7 +1,7 @@
 {
-    "version":  "0.6.2",
+    "version":  "0.6.3",
     "latest":  {
-                   "url":  "https://github.com/mark-https-gif/out-updates/releases/download/v0.6.1/OUT-IDE-Setup-0.6.2.exe"
+                   "url":  "https://github.com/mark-https-gif/out-updates/releases/download/v0.6.3/OUT-IDE-Setup-0.6.3.exe"
                },
-    "notes":  "Проверка обновлений (Ctrl+U), темная/светлая тема, UTF-8/UTF-16"
+    "notes":  "out.exe v0.6: string indexing/slicing, format_float layout, imports-at-top, println, \\r/\\u escapes, Ctrl+C fix"
 }
