@@ -1,7 +1,10 @@
 {
-    "version":  "0.6.3",
-    "latest":  {
-                   "url":  "https://github.com/mark-https-gif/out-updates/releases/download/v0.6.3/OUT-IDE-Setup-0.6.3.exe"
-               },
-    "notes":  "out.exe v0.6: string indexing/slicing, format_float layout, imports-at-top, println, \\r/\\u escapes, Ctrl+C fix"
+  "version": "0.6.4",
+  "latest": {
+    "url": "https://github.com/mark-https-gif/out-updates/releases/download/v0.6.4/OUT-IDE-Setup-0.6.4.exe"
+  },
+  "linux": {
+    "url": "https://github.com/mark-https-gif/out-updates/releases/download/v0.6.4/out_linux"
+  },
+  "notes": "OUT IDE v0.6.4: folder click opens all .out as tabs (Arduino sketch); real Linux audio (ALSA arecord/aplay); net/audio/internet stdlib"
 }
